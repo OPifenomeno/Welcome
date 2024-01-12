@@ -1,1 +1,9 @@
-aaa
+<!DOCTYPE HTML>
+<html lang="pt-br">
+<head><title>Bem-vindo(a)</title></head>
+<body>
+<h1>Bem-vindo(a)!</h1>
+  <p>Você está usando a primeira versão do SKAMAIL!</p>
+  
+</body>
+</html>
