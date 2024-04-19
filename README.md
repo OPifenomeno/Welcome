@@ -1,2 +1,2 @@
-Webview da versão beta de SKAMail. 
+Webview do projeto beta do SKAMail. 
 Deprecated.
